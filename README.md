@@ -2,7 +2,7 @@
 converts longer texts to piglatin
 
 usage:
-call the piglatin python script with "piglatin.py lot of english text here"
+call the piglatin python script with command: "python3 piglatin.py Supercalifragilisticexpialidocious"
   
 bugs:
 iam not able to solve the algorithm that it can handle nested quotes marks. in doubt u need enter an additionally
